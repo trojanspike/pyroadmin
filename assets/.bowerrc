@@ -1,6 +1,7 @@
 {
   "directory" : "../components",
   "json"      : "../component.json",
-  "endpoint"  : "https://bower.herokuapp.com"
+  "endpoint"   : "http://bower.joshuapekera.com",
+  "searchpath" : ["https://bower.herokuapp.com"]
 }
 
