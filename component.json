@@ -1,0 +1,9 @@
+{
+  "name": "pyroadmin",
+  "version": "1.0.0",
+  "dependencies": {
+    "bootstrap": "lattest",
+    "jquery": "lattest",
+    "bootstrap-modal-jakobmattsson": "lattest"
+  }
+}
